@@ -1,0 +1,17 @@
+{
+  "name": "StopShop",
+  "short_name": "StopShop",
+  "description": "Una pausa guidata tra l'impulso e l'acquisto.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E6E9E4",
+  "theme_color": "#141A1F",
+  "icons": [
+    { "src": "./icona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icona-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icona-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
